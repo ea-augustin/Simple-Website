@@ -1,0 +1,9 @@
+/* Custom tweaks */
+#hero {
+  background: linear-gradient(to right, #f39c12, #f1c40f);
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  transition: transform 0.3s;
+}
